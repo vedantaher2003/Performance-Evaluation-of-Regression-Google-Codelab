@@ -1,52 +1,11 @@
 # Performance-Evaluation-of-Regression-Google-Codelab
 
 
-Use Website In a Screen-Reader Mode
-Accessibility Screen-Reader Guide, Feedback, and Issue Reporting
-Skip to Content
-↵
-ENTER
-Skip to Menu
-↵
-ENTER
-Skip to Footer
-↵
-ENTER
-AIOps
-BMC Beat
-Cloud
-DevOps
-Innovation
-ITSM
-Mainframe
-Workload Automation
-More
-
-BMC
-Solutions
-Products
-Partners
-Support & Services
-About BMC
-Free Trials & Demos|
-Get Pricing|
-Contact BMC
-AIOps
-BMC Beat
-Cloud
-DevOps
-Innovation
-ITSM
-Mainframe
-Workload Automation
-More
 Machine Learning & Big Data Blog
 Jupyter Notebooks for Data Analytics: A Beginner’s Guide
 
 
-August 9, 2021
-8 minute read
-Shanika Wickramasinghe
+
 The importance of data analytics is steadily growing across all industries. Having proper data analytics and visualizations tools has become more important than ever. Jupyter Notebooks is one of the leading open-source tools for developing and managing data analytics.
 
 Jupyter initially started its life as an offshoot of the iPython project in 2014, and it’s evolved into a full-fledged interactive data science platform. Managed by the non-profit Project Jupyter organization, Jupyter aims to provide the most comprehensive data science platform.
